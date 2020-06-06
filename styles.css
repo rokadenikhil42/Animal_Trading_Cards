@@ -1,0 +1,29 @@
+
+body {
+  padding: 20px;
+  display:flex;
+  text-align: center;
+
+
+}
+
+#container{
+  border : 2px solid grey;
+  padding: 10px;
+}
+
+img {
+  width: 300px;
+}
+.animal-information {
+  width: 300px;
+  font-style: italic ;
+  border : 2px solid grey;
+  padding: 1px;
+}
+
+li {
+  list-style: none;
+}
+
+span { font-weight:bold; }
